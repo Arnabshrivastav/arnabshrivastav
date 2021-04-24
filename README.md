@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## I'm a UI/UX and GRAPHIC DESIGNER
+and being so I definitely need a portfolio which I can share with the Hiring Managers or with my clients.
 <!--
 **Arnabshrivastav/arnabshrivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+So,
 Here's the link to my portfolio : [Portfolio](https://arnabshrivastav.github.io/arnabshrivastav/ "Arnab's Portfolio") 
-
+Behance profile : [Arnab Shrivastav](https://www.behance.net/arnabshrivastav "Behance account")
