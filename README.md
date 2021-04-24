@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 -->
 
 So,
-Here's the link to my portfolio : [Portfolio](https://arnabshrivastav.github.io/arnabshrivastav/ "Arnab's Portfolio") 
+Here's the link to my portfolio : [Portfolio](https://arnabshrivastav.github.io/arnabshrivastav/ "Arnab's Portfolio")
+
 Behance profile : [Arnab Shrivastav](https://www.behance.net/arnabshrivastav "Behance account")
