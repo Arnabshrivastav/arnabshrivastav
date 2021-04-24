@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 So,
-Here's the link to my portfolio : [Portfolio](https://arnabshrivastav.github.io/arnabshrivastav/ "Arnab's Portfolio")
+Here's the link to my portfolio : [Portfolio](https://arnabshrivastav.github.io/arnabshrivastav/ "Arnab's Portfolio") <br/>
 Behance profile : [Arnab Shrivastav](https://www.behance.net/arnabshrivastav "Behance account") 
 
 By the way I also do coding (altough only little 😅)
-Github is already an example.
+Github is already an example. <br/>
 And [Codechef](https://www.codechef.com/users/arnab105 "arnab105") is other example.
