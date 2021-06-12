@@ -23,3 +23,12 @@ Behance profile : [Arnab Shrivastav](https://www.behance.net/arnabshrivastav "Be
 By the way I also do coding (although only little 😅) <br/>
 Github is already an example. <br/>
 And [Codechef](https://www.codechef.com/users/arnab105 "arnab105") is other example.
+
+
+
+Connect with me:<br>
+<ul>
+<li><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="https://www.linkedin.com/in/arnabshrivastav/" height="30" width="30" /> LinkedIn : <a title="LinkedIn account" href="www.linkedin.com/in/arnabshrivastav">arnabshrivastav</a></li> 
+<li><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="https://www.instagram.com/arnab.shrivastav/" height="30" width="30" /> Instagram : <a title="Instagram account" href="https://www.instagram.com/arnab.shrivastav/">@arnab.shrivastav</a></li> 
+</ul>
+
